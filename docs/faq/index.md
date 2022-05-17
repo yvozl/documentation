@@ -97,3 +97,5 @@ You can stake your CFG by nominating a validator through the[ Centrifuge Portal]
 ### How do I run my own validator?
 
 Refer to our [developer documentation](https://developer.centrifuge.io/chain/get-started/validate/) to get started with running a validator node. To become a validator, your node will require enough nominations to replace a validator in the next era.
+
+---------------------------------------------------------------------------------------------------------------------------
